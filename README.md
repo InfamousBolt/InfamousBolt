@@ -5,11 +5,11 @@
 Hello World🙋‍♂️! I am Keshav Agarwal, 22yo with a knack for coding, problem-solving and developing mobile applications.
 Currently a coding student at 42 Wolfsburg, Germany. 👨‍💻
 
-![intra](https://user-images.githubusercontent.com/47386839/156756343-2eeab85a-c027-402c-908f-46cd4318e115.png)
-
-
 Hobbies include playing basketball, guitar, lot's of reading, gaming and torturing my PC with:
 C, C++, Python, Kotlin, Dart and some Java.
+<p align="left">
+<img src="https://user-images.githubusercontent.com/47386839/156756708-b6a03ad1-04b7-4f87-bdcb-b5a3b676fc20.png" alt="Intra" width="250" height="100"/>
+</p>
 
 ![CodingDucky](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
