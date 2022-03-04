@@ -8,13 +8,12 @@ Currently a coding student at 42 Wolfsburg, Germany. 👨‍💻
 Hobbies include playing basketball, guitar, lot's of reading, gaming and torturing my PC with:
 C, C++, Python, Kotlin, Dart and some Java.
 <p align="left">
-<img src="https://user-images.githubusercontent.com/47386839/156758080-3a93a19e-fb60-42b1-8892-ab84dd766571.png" alt="Intra" width="550" height="300"/>
+<img src="https://user-images.githubusercontent.com/47386839/156758573-109b9b8f-1e9d-4f59-92f0-63ed51447557.jpg" alt="Intra"/>
 </p>
 
 ![CodingDucky](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ### My Weapons 🤖
-
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/47386839/156751838-f987ace8-85e4-4356-a187-16f27ec97e16.png" alt="Dart" width="40" height="40"/>
