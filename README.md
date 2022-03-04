@@ -15,8 +15,8 @@ C, C++, Python, Kotlin, Dart and some Java.
 ### My Weapons 🧰
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/47386839/156751838-f987ace8-85e4-4356-a187-16f27ec97e16.png" alt="Dart" width="35" height="35"/>
-  <img src="https://user-images.githubusercontent.com/47386839/156752452-93d400be-c76a-43d9-b14d-57959c1e2949.png" alt="Firebase" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/47386839/156751838-f987ace8-85e4-4356-a187-16f27ec97e16.png" alt="Dart" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/47386839/156752931-bdb1bb60-4d46-4a15-b74f-0019f002c46a.png" alt="Firebase" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/47386839/156752600-4757afb1-d1b1-44fc-8665-ed77dfedb60b.jpg" alt="Flutter" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/53803245/114309142-d96df000-9b03-11eb-886d-8cbdbdae7c9b.png" alt="Android" width="48" height="48"/>
   <img src="https://user-images.githubusercontent.com/53803245/131665166-e5b0330e-a07f-473d-9f44-8a0d37f293d2.png" alt="Kotlin" width="35" height="35"/>
