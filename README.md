@@ -8,7 +8,7 @@ Currently a coding student at 42 Wolfsburg, Germany. 👨‍💻
 Hobbies include playing basketball, guitar, lot's of reading, gaming and torturing my PC with:
 C, C++, Python, Kotlin, Dart and some Java.
 <p align="left">
-<img src="(https://user-images.githubusercontent.com/47386839/156758958-6cdd7b24-fcfd-4b4a-85f7-13f53964f8ed.jpg" alt="Intra"/>
+<img src="https://user-images.githubusercontent.com/47386839/156758958-6cdd7b24-fcfd-4b4a-85f7-13f53964f8ed.jpg" alt="Intra"/>
 </p>
 
 
