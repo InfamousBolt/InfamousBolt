@@ -5,6 +5,7 @@
 Hello World🙋‍♂️! I am Keshav Agarwal, 22yo with a knack for coding, problem-solving and developing mobile applications.
 Currently a coding student at 42 Wolfsburg, Germany. 👨‍💻
 
+![intra](https://user-images.githubusercontent.com/47386839/156756343-2eeab85a-c027-402c-908f-46cd4318e115.png)
 
 
 Hobbies include playing basketball, guitar, lot's of reading, gaming and torturing my PC with:
@@ -12,7 +13,7 @@ C, C++, Python, Kotlin, Dart and some Java.
 
 ![CodingDucky](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-### My Weapons 🧰
+### My Weapons 🤖
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/47386839/156751838-f987ace8-85e4-4356-a187-16f27ec97e16.png" alt="Dart" width="40" height="40"/>
@@ -29,6 +30,7 @@ C, C++, Python, Kotlin, Dart and some Java.
   <img src="https://user-images.githubusercontent.com/53803245/122162757-afcd9e00-ce91-11eb-9049-85bc1f2f062a.png" width="40" height="40"/>
 </p>
 
-
-
-📧Email: agarwalkeshav8399@gmail.com
+### Pizza's the word 🍕📱
+<a href="https://www.linkedin.com/in/keshav-agarwal-b39322192/"><img src="https://user-images.githubusercontent.com/53803245/122164708-d17c5480-ce94-11eb-9ebb-2bc93ad85295.png" width="50" height="50" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=agarwalkeshav8399@gmail.com.com&su=SUBJECT&body=BODY&bcc="><img src="https://user-images.githubusercontent.com/47386839/156755677-35dad79c-8ae3-43c3-92bf-5d5ccf7a3829.png" width="50" height="50" /></a>
+<a href="https://open.spotify.com/user/087o48zdzxc5sb6i0pld6wczi"><img src="https://user-images.githubusercontent.com/53803245/122164758-de994380-ce94-11eb-9512-929032a7480b.png" width="50" height="50"/></a>
