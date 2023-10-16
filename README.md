@@ -3,11 +3,8 @@
 <h2 align="center">Ahoy, I'm Keshav!<img src='https://media.giphy.com/media/Efuzohfr4XyE92NAHM/giphy.gif' width='80"'></h2> 
 
 Hello World🙋‍♂️! I am Keshav Agarwal, 22yo with a knack for coding, problem-solving and developing mobile applications.
-Currently a coding student at 42 Wolfsburg, Germany. 👨‍💻
+Currently a software developer at Informatica. 👨‍💻
 
-<p align="left">
-<img src="https://user-images.githubusercontent.com/47386839/156758958-6cdd7b24-fcfd-4b4a-85f7-13f53964f8ed.jpg" alt="Intra"/>
-</p>
 
 Hobbies include playing basketball, guitar, lot's of reading, gaming and torturing my PC with:
 C, C++, Python, Kotlin, Dart and some Java.
